@@ -1,2 +1,2 @@
-pip install python-telegram-bot schedule
-pip install pyTelegramBotAPI requests
+python-telegram-bot schedule
+pyTelegramBotAPI requests
